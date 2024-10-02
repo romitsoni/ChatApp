@@ -19,6 +19,3 @@ x86/
 *.user
 *.filters
 *.log
-
-## Ignore the ScreenShots folder (to prevent tracking in Git)
-/ScreenShots/
